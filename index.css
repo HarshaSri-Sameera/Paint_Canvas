@@ -1,0 +1,28 @@
+html{
+  margin:20pt;
+  background-color:black;
+  border-width:10px;  
+  border-style:ridge;
+  border-color:orange;
+  border-bottom-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+body{
+  background-color:black;
+}
+p{
+  color:white;
+}
+h2{
+  color:orange;
+  text-decoration:underline yellow;
+}
+h1{
+  text-align:center;
+  color:orange;
+  text-decoration:underline overline white;
+}
+canvas{
+  background-color: white;
+  border:1px solid white;
+}
